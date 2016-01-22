@@ -20,11 +20,14 @@ html {
 
 img {
   width:100%;
-  position: absolute;
 }
 
 .tabs > li {
   display: inline-block;
+}
+
+ul {
+  margin:auto 0;
 }
 
 .tabs a {
@@ -32,7 +35,7 @@ img {
   background-color: white;
   color: #000;
   text-decoration: none;
-  padding: .5em;
+  padding: .4em;
   border-radius: 20px;
   border-color: #6e726f;
   border-style: solid;
